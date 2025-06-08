@@ -1,5 +1,5 @@
 import { useState } from "react";
-import searchIcon from "/movie-app/src/assets/search.svg";
+import searchIcon from "../assets/search.svg";
 import MovieList from "./MovieList";
 import TrendingMovies from "./TrendingMovies";
 
